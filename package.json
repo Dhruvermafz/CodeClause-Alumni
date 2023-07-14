@@ -4,18 +4,21 @@
   "description": "This is an Alumni Management System",
   "main": "\u001b[D\u001b[D\u001b[D\u001bapp\u001b[3~\u001b[3~\u001b[C\u001b",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ayush23Dash/Alumni_Management_System.git"
+    "url": "git+https://github.com/Dhruvermafz/CodeClause-Alumni.git"
   },
   "author": "Dhruv Verma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ayush23Dash/Alumni_Management_System/issues"
+    "url": "https://github.com/Dhruvermafz/CodeClause-Alumni/issues"
   },
-  "homepage": "https://github.com/Ayush23Dash/Alumni_Management_System#readme",
+  "homepage": "https://github.com/Dhruvermafz/CodeClause-Alumni#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "connect-flash": "^0.1.1",
